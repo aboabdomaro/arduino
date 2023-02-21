@@ -1,5 +1,5 @@
 int Lower_Sensor = 2;
-int Upper_Sensor = 3
+int Upper_Sensor = 4;
 int Red_Led = 13;
 int Green_Led = 12;
 int Buzzer = 11
